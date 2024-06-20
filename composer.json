@@ -1,0 +1,22 @@
+{
+    "name": "prgrammerzamannow/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Prgrammerzamannow\\BelajarPhpComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zakiyyan",
+            "email": "mzakkiyananwar@gmail.com"
+        }
+    ],
+    "require": { 
+            "php" : ">=8.0"
+        }
+      
+        }
+    
+
